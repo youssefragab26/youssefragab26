@@ -1,3 +1,3 @@
 ## Hi there 👋
 - 🌱 I’m currently learning FullStack Development...
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?youssefragab26=anuraghazra&size_weight=0.5&count_weight=0.5)
