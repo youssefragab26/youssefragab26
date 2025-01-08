@@ -1,8 +1,14 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There;I'm+Joe" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+There;I'm+Joe" alt="Typing SVG" /></a>
 </h1>
+
+<h3 align="center">Fronend Developer</h3>
+
 <div align="center">
 🌱 I’m currently learning React and Java
+
+💬 Ask me about Javascript, Typescript, React... or anything
+
 </div>
 
 <div align="center"> 
@@ -13,8 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
 
-<hr/>
  <h2 align="center">Languages & Tools</h2>
 <br/>
 <div align="center">
