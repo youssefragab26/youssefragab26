@@ -2,9 +2,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There;I'm+Joe" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
-🌱 I’m currently learning **React and Java**
-💬 Ask me about **Javascript, Typescript, React, Git... or anything [here](yr20032003@gmail.com)**
+🌱 I’m currently learning React and Java
 </div>
+
 <div align="center"> 
   <a href="yr20032003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
 <hr/>
  <h2 align="center">Languages & Tools</h2>
 <br/>
