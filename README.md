@@ -5,9 +5,10 @@
 <h3 align="center">Fronend Developer</h3>
 
 <div align="center">
-🌱 I’m currently learning React and Java
+🌱 I’m currently learning React and Tailwind CSS
 
-💬 Ask me about Javascript, Typescript, React... or anything
+
+💬 Ask me about Javascript, React... or anything
 
 </div>
 
@@ -17,7 +18,7 @@
  <h2 align="center">Languages & Tools</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,git" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,html,css,git" width={100}/><br>
 </div>
 
 <!--
